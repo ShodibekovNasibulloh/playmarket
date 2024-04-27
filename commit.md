@@ -1,0 +1,1 @@
+<a class="Link link lc-link lc-button2 lc-button2_size_min lc-button2_animation_off lc-button2_type_link" href="" data-clickable="true" data-log-node="0--100"><div class="lc-button2__under"></div><span class="lc-button2__text"><div class="lc-styled-text"><span class="lc-styled-text__text lc-styled-text__text_align_center">Скачать</span></div></span></a>f
